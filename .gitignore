@@ -1,0 +1,9 @@
+# Build output
+build/
+bin/
+*.exe
+*.o
+*.obj
+
+# IDE files
+.vscode/
